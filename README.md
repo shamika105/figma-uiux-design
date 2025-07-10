@@ -56,6 +56,7 @@
 - Learned how to use icon plugins without downloading SVG files
 - Practiced drag & drop integration into HTML pages
 - Used Font Awesome & Bootstrap Icons with CDN
+- i learned to how to use Pages in Figma.
 
 ## 💡 Key Takeaway
 Understanding icon plugin systems makes UI development faster and cleaner.
