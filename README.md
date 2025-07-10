@@ -46,3 +46,23 @@
 ![Wireframe Screenshot](./Day02-Wireframes/class-project-02-wireframe.png)
 
 
+
+ 📅 Day 3 – Figma UI/UX Design Essentials  
+ **Topic:** Icons, Plugins, Wireframes  
+**Class Project:** Wireframe Icons Assignment (Submitted ✅)
+---
+
+## ✅ What I Learned
+- Learned how to use icon plugins without downloading SVG files
+- Practiced drag & drop integration into HTML pages
+- Used Font Awesome & Bootstrap Icons with CDN
+
+## 💡 Key Takeaway
+Understanding icon plugin systems makes UI development faster and cleaner.
+
+## 🔧 Tools Used
+- Figma
+
+🔗 [**Live on Figma:** ](https://www.figma.com/design/zkuFexck0XTzOaTRx7kiq5/Class-Project-02--WireFrame?node-id=0-1&t=OVsw8W95ffT1xKvX-1)
+ 
+
