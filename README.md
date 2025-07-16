@@ -67,3 +67,28 @@ Understanding icon plugin systems makes UI development faster and cleaner.
 🔗 [**Live on Figma:** ](https://www.figma.com/design/zkuFexck0XTzOaTRx7kiq5/Class-Project-02--WireFrame?node-id=0-1&t=OVsw8W95ffT1xKvX-1)
  
 
+📅 Day 4 – Figma UI/UX Design Essentials  
+ **Topic:** Icons, Plugins, Wireframes  
+**Class Project 04 :** Mobile Prototyping & Testing (Submitted ✅) 
+
+## Project Overview
+
+This project, "Class Project 04: Testing on your phone using prototyping," focuses on demonstrating key aspects of UI/UX prototyping using Figma. The primary goal was to learn and apply various prototyping techniques, including animations, easing, and the crucial step of testing prototypes directly on a mobile device using Figma Mirror.
+---
+
+
+In this module, I gained practical experience and a deeper understanding of:
+
+* **How to Prototype in Figma:** Creating interactive flows, linking screens, and defining user journeys.
+* **Prototype Animation & Easing in Figma:** Implementing various animation types and understanding how easing functions impact the feel and smoothness of transitions.
+* **Testing on Your Phone with Figma Mirror:** The invaluable process of testing prototypes on actual mobile devices to gain real-world feedback and identify usability issues. This helped in understanding the user experience from a mobile-first perspective.
+  
+-----
+
+## 🔧 Tools Used
+- Figma
+
+## Access the Prototype
+
+📷[Live On Figma :](https://www.figma.com/proto/zkuFexck0XTzOaTRx7kiq5/Class-Project-04--Testing-on-your-phone?node-id=1-5&p=f&t=j840PbDwZTi4THNJ-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
+
