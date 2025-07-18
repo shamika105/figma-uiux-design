@@ -97,7 +97,7 @@ In this module, I gained practical experience and a deeper understanding of:
  **Topic:** Animation Level-1 
 **Class Project 05 :** My First Animation  (Submitted ✅) 
 
-* ** I've learned to do Animation on How to use Smart Animation and delays in Figma
+*  I've learned to do Animation on How to use Smart Animation and delays in Figma
 * I've also added the Project of my First Animation
 
 ## 🔧 Tools Used
