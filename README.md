@@ -92,3 +92,13 @@ In this module, I gained practical experience and a deeper understanding of:
 
 📷[Live On Figma :](https://www.figma.com/proto/zkuFexck0XTzOaTRx7kiq5/Class-Project-04--Testing-on-your-phone?node-id=1-5&p=f&t=j840PbDwZTi4THNJ-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
 
+
+# 📅 Day 5 – Figma UI/UX Design Essentials  
+ **Topic:** Animation Level-1 
+**Class Project 05 :** My First Animation  (Submitted ✅) 
+
+* ** I've learned to do Animation on How to use Smart Animation and delays in Figma
+* I've also added the Project of my First Animation
+
+## 🔧 Tools Used
+- Figma  
