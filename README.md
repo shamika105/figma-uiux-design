@@ -45,7 +45,7 @@
 
 ![Wireframe Screenshot](./Day02-Wireframes/class-project-02-wireframe.png)
 
-
+---
 
  # 📅 Day 3 – Figma UI/UX Design Essentials  
  **Topic:** Icons, Plugins, Wireframes  
@@ -66,6 +66,7 @@ Understanding icon plugin systems makes UI development faster and cleaner.
 
 🔗 [**Live on Figma:** ](https://www.figma.com/design/zkuFexck0XTzOaTRx7kiq5/Class-Project-02--WireFrame?node-id=0-1&t=OVsw8W95ffT1xKvX-1)
  
+---
 
 # 📅 Day 4 – Figma UI/UX Design Essentials  
  **Topic:** Icons, Plugins, Wireframes  
@@ -91,6 +92,9 @@ In this module, I gained practical experience and a deeper understanding of:
 ## Access the Prototype
 
 📷[Live On Figma :](https://www.figma.com/proto/zkuFexck0XTzOaTRx7kiq5/Class-Project-04--Testing-on-your-phone?node-id=1-5&p=f&t=j840PbDwZTi4THNJ-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=1%3A2)
+
+---
+
 
 
 # 📅 Day 5 – Figma UI/UX Design Essentials  
