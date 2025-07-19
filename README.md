@@ -105,4 +105,18 @@ In this module, I gained practical experience and a deeper understanding of:
 * I've also added the Project of my First Animation
 
 ## 🔧 Tools Used
-- Figma  
+- Figma
+
+  # 📅 Day 6 – Figma UI/UX Design Essentials
+   **Topic:** MoodBoard High Fidelity 
+**Class Project 06 :** My first MoodBoard (Submitted ✅)
+
+  * I've learned how to use differbet websites for getting an images.
+  * I've learned how to create a moodbaord and use the moodboard structures and also add those images from community to the moodboard structures.
+  * Hence i've created my First MoodBoard on Figma
+  * 📷 I've added the MoodBoard Screenshot here.
+    
+## 🔧 Tools Used
+- Figma
+
+---
