@@ -121,3 +121,7 @@ In this module, I gained practical experience and a deeper understanding of:
 - Figma
 
 ---
+
+# 📅 Day 7 – Figma UI/UX Design Essentials  
+---
+
