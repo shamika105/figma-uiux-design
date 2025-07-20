@@ -71,6 +71,7 @@ Understanding icon plugin systems makes UI development faster and cleaner.
 # 📅 Day 4 – Figma UI/UX Design Essentials  
  **Topic:** Icons, Plugins, Wireframes  
 **Class Project 04 :** Mobile Prototyping & Testing (Submitted ✅) 
+---
 
 ## Project Overview
 
