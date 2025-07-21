@@ -124,8 +124,8 @@ In this module, I gained practical experience and a deeper understanding of:
 
 # 📅 Day 7 – Figma UI/UX Design Essentials 
  **Topic:** Colors
-  *I've learned about the different websites like colour Hunt,Grabient, and many more.
-  *And also I've learned about the how to use colur pallets from the figms community and how to use them on Figma.
+  *  I've learned about the different websites like colour Hunt,Grabient, and many more.
+  *  And also I've learned about the how to use colur pallets from the figms community and how to use them on Figma.
  
 
 
