@@ -124,15 +124,17 @@ In this module, I gained practical experience and a deeper understanding of:
 
 # 📅 Day 7 – Figma UI/UX Design Essentials 
  **Topic:** Colors
+ **Class Project 07 :** Colurs & Columns (Submitted ✅)
+
   *  I've learned about the different websites like colour Hunt,Grabient, and many more.
   *  And also I've learned about the how to use colur pallets from the figms community and how to use them in Figma.
   *  I've also learned abot the how to create colur pallete in Figma.
- 
+  *  Hence I've created the My Class Project 7th Colours & Columns Submitted.
+  *  I've uploaded the class project which is Colours & Columns.
 
-
-
-
-
+---
+📷[Here is live on Figma:](https://www.figma.com/design/zkuFexck0XTzOaTRx7kiq5/Class-Project-07-Colours---Columns?node-id=0-1&t=x3uOwvtSQWcfSmuS-1)
+   
 
 ## 🔧 Tools Used
 - Figma
