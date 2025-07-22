@@ -140,3 +140,24 @@ In this module, I gained practical experience and a deeper understanding of:
 - Figma
 ---
 
+ # 📅 Day 8 – Figma UI/UX Design Essentials  
+**Topic:** Text & Fonts Advanced 
+**Class Project:** Text (Submitted ✅)
+
+---
+
+## 🎯 Key Learnings
+ * The
+ * 
+
+
+
+
+
+
+---
+
+## 🔧 Tools Used
+- Figma
+
+---
