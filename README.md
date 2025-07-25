@@ -153,7 +153,7 @@ In this module, I gained practical experience and a deeper understanding of:
  * Then Useful things to know about the text in Figma.
  * How to fix missing fonts in Figma.
  * And also from these i've completed my project : Text (Submitted ✅)
- *   [Here is live on Figma]:(https://www.figma.com/proto/zkuFexck0XTzOaTRx7kiq5/Class-Project-08-Text?node-id=171-35&p=f&t=hcHXxPjBV0l9rY26-1&scaling=min-zoom&content-scaling=fixed&page-id=35%3A52)
+📷[Here is live on Figma]:(https://www.figma.com/proto/zkuFexck0XTzOaTRx7kiq5/Class-Project-08-Text?node-id=171-35&p=f&t=hcHXxPjBV0l9rY26-1&scaling=min-zoom&content-scaling=fixed&page-id=35%3A52)
    
  * And also I've addded the screenshots in screenshot folder.
 
