@@ -169,8 +169,13 @@ In this module, I gained practical experience and a deeper understanding of:
 
  # 📅 Day 9 – Figma UI/UX Design Essentials  
 **Topic:** Drawing 
-**Class Project 09 :** Making Stuff (Submitted ✅)   
+ 
 ---
 
 ## 🎯 Key Learnings
-*   
+*   In this section,i've learned about he drawing tricks ,Squircle buttons with ios.
+*   Also I've learned about the difference between Union Vs Flatten figma.
+  ---
+
+  ## 🔧 Tools Used
+- Figma
