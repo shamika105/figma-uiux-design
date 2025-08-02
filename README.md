@@ -184,6 +184,7 @@ In this module, I gained practical experience and a deeper understanding of:
 
   # 📅 Day 10 – Figma UI/UX Design Essentials  
 **Topic:** Working with illustrator, Images, Working with the PhotoShop
+
 **Class Project 10:** Images (Submitted ✅)
 
 ---
