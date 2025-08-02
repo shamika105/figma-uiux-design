@@ -143,7 +143,7 @@ In this module, I gained practical experience and a deeper understanding of:
  # 📅 Day 8 – Figma UI/UX Design Essentials  
 **Topic:** Text & Fonts Advanced 
 
-**Class Project:** Text (Submitted ✅)
+**Class Project 08 :** Text (Submitted ✅)
 
 ---
 
@@ -184,10 +184,19 @@ In this module, I gained practical experience and a deeper understanding of:
 
   # 📅 Day 10 – Figma UI/UX Design Essentials  
 **Topic:** Working with illustrator, Images, Working with the PhotoShop
+**Class Project 10:** Images (Submitted ✅)
 
 ---
 
 ## 🎯 Key Learnings:
-* In this section, I've learned so many things like, 
+* In this section, I've learned so many things like working with illustrator, tips & tricks for using images in Figma, masking & cropping images in Figma, free images & plugins in Figma, And some  basic things for using PhtoShop in Figma.
+* Hense, I've submitted my 10th Class project: Images
+* I've upladded the screenshot of my project.
+
+   ---
+  
+  ## 🔧 Tools Used
+- Figma
+  ---
 
  
