@@ -206,6 +206,25 @@ In this module, I gained practical experience and a deeper understanding of:
    ---
     ## 🔧 Tools Used
 - Figma
+
+
   ---
 
+  # 📅 Day 11 – Figma UI/UX Design Essentials  
+**Topic:** AutoLayout for spacing, how to use constraints in Figma, combinningnested frames auto layout & constraints in Figma
+
+## 🎯 Key Learnings:
+* In this section, I've learned about the autolayout for spacing, how to use constraints in Figma, Combinning frames auto layout & constraints in Figma.
+
+    ---
+
+
+
+    ## 🔧 Tools Used
+- Figma
+
+  ---
+
+     
+**Class Project 12: Responsive Design** Images (Submitted ✅)
 
